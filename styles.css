@@ -1,5 +1,5 @@
 body {
-    background:  linear-gradient(#00000099, #00000099), url("images/stars.gif") repeat;
+    background:  linear-gradient(#00000099, #00000099), url("images/moon.gif") no-repeat center fixed;
     image-rendering: optimizespeed;
     font-family: MorePeftectDos, 'Courier New', monospace;
     text-align: justify;
